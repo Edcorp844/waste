@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706217902795",
+    "project_id": "waste-98f5d",
+    "storage_bucket": "waste-98f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706217902795:android:d889508c4de5502b54114e",
+        "android_client_info": {
+          "package_name": "com.example.waste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8TXT6s94OTN7g-sixXeO4Gt5JCkZ_LGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706217902795:android:dd55bf650abf9f9354114e",
+        "android_client_info": {
+          "package_name": "com.example.waste_manage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8TXT6s94OTN7g-sixXeO4Gt5JCkZ_LGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
